@@ -30,4 +30,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## The output is seen as below :
 
-![Screenshot of Outcome](src/assets/images/Outcome.jpg)
+![Screenshot of Outcome](src/assets/images/Outcome.JPG)
